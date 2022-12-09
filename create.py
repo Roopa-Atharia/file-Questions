@@ -1,3 +1,3 @@
-# a=open("Students.txt","x")
-# a.write("My name is Roopa")
-# a.close()
+a=open("Students data.txt","x")
+a.write("I am study at navgurukul")
+a.close()
